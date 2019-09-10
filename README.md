@@ -9,7 +9,7 @@ Check each component to see its details. Note that all three applications should
 - [Vehicles API](vehicles-api/README.md)
 - [Pricing Service](pricing-service/README.md)
 - [Boogle Maps](boogle-maps/README.md)
-- [Eureka Server](eureka-server/README.md)
+- [Eureka Server](serverEureka/README.md)
 
 ## Dependencies
 
